@@ -1,0 +1,6 @@
+{
+    "Name": "GoldenAlias",
+    "ID": "com.anotherpillow.goldenalias",
+    "Version": "1.0",
+    "Main": "GoldenAlias.golden.js::default"
+}
