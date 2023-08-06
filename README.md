@@ -1,6 +1,6 @@
 # GoldenAlias
 
-A Alias plugin for [GoldenProxy](https://github.com/GoldenProxy/GoldenProxy).
+An alias plugin for [GoldenProxy](https://github.com/GoldenProxy/GoldenProxy).
 
 ## Installation
 
